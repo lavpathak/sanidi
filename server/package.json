@@ -1,12 +1,12 @@
 {
   "name": "sanidi-server",
   "version": "1.0.0",
-  "description": "Backend server and API for Sanidi",
+  "description": "Backend server and API for Sanidi - Configuration Service",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Lav Pathak",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
